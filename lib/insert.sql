@@ -31,6 +31,3 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (8, 'Diamonds are forever', 'movies', 880.00, '2017-01-15', '2017-02-15'),
 (9, 'Christina Aguilera collection', 'music', 10.00, '2014-04-24', '2014-05-24'),
 (10, 'Food for newbies', 'literature', 30.00, '2016-08-18', '2016-08-18');
-
-
-
